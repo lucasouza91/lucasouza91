@@ -14,6 +14,7 @@ https://www.linkedin.com/in/lucasdias-souza/
 
 :mortar_board: Cursos e Certificações:
 
+- Data Analysis Using Python| IBM 
 - Fundamentos de Linguagem Python para Análise de Dados e Data Science | Data Science Academy
 - LGPD - Lei Geral de Proteção de Dados | Umentor
 - Introdução à Ciência de Dados 3.0 | Data Science Academy
@@ -21,4 +22,6 @@ https://www.linkedin.com/in/lucasdias-souza/
 - Métodos Ágeis - Scrum & Sprint | Umentor
 - Inglês Avançado | CCAA
 - Excel Avançado | Atuar Cursos
+
+
 
